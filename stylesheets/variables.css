@@ -1,6 +1,6 @@
 :root {
   --global-font-family:                            "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  --global-font-size:                              1rem;
+  --global-font-size:                              1em;
   --global-line-height:                            1.42;
 
   --global-color:                                  #000;
